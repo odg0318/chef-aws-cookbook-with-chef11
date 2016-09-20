@@ -1,4 +1,4 @@
-name             'resource-tagging'
+name             'chef-aws-cookbook-with-chef11'
 maintainer       'guri'
 maintainer_email 'odg0318@gmail.com'
 license          'All rights reserved'
